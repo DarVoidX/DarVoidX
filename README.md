@@ -43,9 +43,7 @@
 
 ---
 
-## 🐍 Contribution Graph  
+## 🐍 Contribution Graph   
 <p align="center">
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/DarVoidX/DarVoidX/main/dist/github-snake-dark.svg" alt="Dark Themed Snake Animation" />
+</p>
